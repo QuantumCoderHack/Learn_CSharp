@@ -86,20 +86,6 @@ By the end of this journey, you will be able to:
 
 ---
 
-# 📂 Project Structure
-
-```bash id="vfdn3u"
-📦 CSharp-Learning
- ┣ 📂 Beginner
- ┣ 📂 Intermediate
- ┣ 📂 Advanced
- ┣ 📂 MiniProjects
- ┣ 📂 Exercises
- ┗ 📜 README.md
-```
-
----
-
 # 🚀 Getting Started
 
 ## 1. Clone the Repository
